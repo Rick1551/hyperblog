@@ -5,3 +5,5 @@ Estoy estudiando Desarrollo backend con python,
 en platzi.
 
 21 de enero de 1997
+
+Tengo 170 cm de estatura
