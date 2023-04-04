@@ -1,5 +1,7 @@
 Esta es la historia de ricardo saldaña
 
 Tengo 26 años y estudio para ser desarrollador
+Estoy estudiando Desarrollo backend con python,
+en platzi.
 
 21 de enero de 1997
